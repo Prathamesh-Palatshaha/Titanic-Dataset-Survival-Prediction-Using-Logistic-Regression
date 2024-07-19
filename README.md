@@ -91,7 +91,7 @@ This project demonstrates how to build a Logistic Regression model to predict th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Titanic-Dataset-Survival-Prediction-Using-Logistic-Regression.git
+   git clone https://github.com/Prathamesh-Palatshaha/Titanic-Dataset-Survival-Prediction-Using-Logistic-Regression.git
    ```
 
 2. Navigate to the project directory:
