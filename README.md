@@ -31,8 +31,8 @@ The repository contains the following files:
 
 - `README.md`: Project overview and setup instructions.
 - `Titanic_Survival_Prediction.ipynb`: Jupyter Notebook with the data analysis, preprocessing, model training, and evaluation.
-- `train.csv`: Training dataset (not included, must be downloaded from Kaggle).
-- `test.csv`: Test dataset (not included, must be downloaded from Kaggle).
+- `train.csv`: Training dataset (on repo or can be downloaded from Kaggle).
+- `test.csv`: Test dataset (on repo or can be downloaded from Kaggle).
 
 ## Requirements
 
